@@ -297,7 +297,7 @@ function AppContent() {
               <Button 
                 onClick={() => scrollToSection(productsRef)}
                 variant="outline"
-                className="border-white text-white hover:bg-white/10 px-8 py-6 text-base font-semibold rounded-full"
+                className="border-white text-white hover:bg-white/20 bg-white/15 px-8 py-6 text-base font-semibold rounded-full"
               >
                 {t('hero.ctaSecondary')}
               </Button>
